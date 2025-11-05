@@ -1,16 +1,85 @@
-## Hi there 👋
+# 2. 기술 스택 (Tech Stack)
 
-<!--
-**livinoid98/livinoid98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend
 
-Here are some ideas to get you started:
+![scss](https://img.shields.io/badge/scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![nuxt.js](https://img.shields.io/badge/nuxt.js-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
+![recoil](https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white)
+![zustand](https://img.shields.io/badge/zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
+![redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![reduxsaga](https://img.shields.io/badge/reduxsaga-999999?style=for-the-badge&logo=reduxsaga&logoColor=white)
+![reactquery](https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![electron](https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![three.js](https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![eslint](https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![prettier](https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
+![vue3](https://img.shields.io/badge/vue3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Cross-Platform Mobile
+
+![react-native](https://img.shields.io/badge/reactnative-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+### Backend
+
+![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![springsecurity](https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![springcloudgateway](https://img.shields.io/badge/springcloudgateway-6DB33F?style=for-the-badge&logo=springcloudgateway&logoColor=white)
+![springbatch](https://img.shields.io/badge/springbatch-6DB33F?style=for-the-badge&logo=springbatch&logoColor=white)
+![express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![socket.io](https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+### DB
+
+![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![redis](https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![mssql](https://img.shields.io/badge/mssql-4169E1?style=for-the-badge&logo=mssql&logoColor=white)
+![elasticsearch](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+### Infra
+
+![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![dockercompose](https://img.shields.io/badge/dockercompose-2496ED?style=for-the-badge&logo=dockercompose&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![vault](https://img.shields.io/badge/vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=white)
+![rancher](https://img.shields.io/badge/rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
+![argocd](https://img.shields.io/badge/argocd-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+
+### Test
+
+![playwright](https://img.shields.io/badge/playwright-000000?style=for-the-badge&logo=playwright&logoColor=white)
+![jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+### AI/ML
+
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![langchain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![langfuse](https://img.shields.io/badge/langfuse-1C3C3C?style=for-the-badge&logo=langfuse&logoColor=white)
+![ragas](https://img.shields.io/badge/ragas-1C3C3C?style=for-the-badge&logo=ragas&logoColor=white)
+![openaigym](https://img.shields.io/badge/openaigym-0081A5?style=for-the-badge&logo=openaigym&logoColor=white)
+
+### DATA
+
+![sentry](https://img.shields.io/badge/sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![datadog](https://img.shields.io/badge/datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![d3](https://img.shields.io/badge/d3-F9A03C?style=for-the-badge&logo=d3&logoColor=white)
+
+### COLLABORATION
+
+![jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![gitlab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![miro](https://img.shields.io/badge/miro-050038?style=for-the-badge&logo=miro&logoColor=white)
+
+### DESIGN
+
+![figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![photoshop](https://img.shields.io/badge/photoshop-000000?style=for-the-badge&logo=photoshop&logoColor=white)
+![illustrator](https://img.shields.io/badge/illustrator-0000000?style=for-the-badge&logo=illustrator&logoColor=white)
