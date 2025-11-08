@@ -1,4 +1,25 @@
-# 2. 기술 스택 (Tech Stack)
+# 1. 교육 사항 (Education)
+
+- 고려대학교 SW·AI 융합대학원(석사) 빅데이터융합학과 전공
+
+# 2. 외부 교육 (Academy)
+
+- 삼성 청년 SW 아카데미 (SSAFY) 서울 9기
+- SBS 컴퓨터아카데미 홍대지점 웹디자인학과
+- 코리아아이티아카데미 신촌지점 웹프론트엔드 과정
+
+# 3. 자격 사항 (License)
+
+- 빅데이터분석기사
+- 정보처리기사
+- SQLD (SQL-개발자)
+- 웹디자인기능사
+
+# 4. 언어 (Language)
+
+- OPIc (영어) Intermediate Medium
+
+# 5. 기술 스택 (Tech Stack)
 
 ### Frontend
 
