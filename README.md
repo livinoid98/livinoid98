@@ -2,7 +2,8 @@
 
 - 고려대학교 SW·AI 융합대학원(석사) 빅데이터융합학과 전공
 
-[심층강화학습 CQL 발표 자료](https://github.com/livinoid98/livinoid98/blob/main/%5B2025-1%ED%95%99%EA%B8%B0%5D%20%EC%8B%AC%EC%B8%B5%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%20%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9C%B5%ED%95%A9%ED%95%99%EA%B3%BC_2024512005_%EC%B5%9C%EC%B0%AC%EC%98%81.pdf)
+* [심층강화학습 CQL 발표 자료](https://github.com/livinoid98/livinoid98/blob/main/%5B2025-1%ED%95%99%EA%B8%B0%5D%20%EC%8B%AC%EC%B8%B5%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%20%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9C%B5%ED%95%A9%ED%95%99%EA%B3%BC_2024512005_%EC%B5%9C%EC%B0%AC%EC%98%81.pdf)<br/>
+* [빅데이터 자연어처리 기술 RAG를 활용한 할루시네이션 개선](https://github.com/livinoid98/livinoid98/blob/main/12%ED%8C%80_RAG(%EA%B2%80%EC%83%89%EC%A6%9D%EA%B0%95%EC%83%9D%EC%84%B1)%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%95%BC%EA%B5%AC%20%EA%B8%B0%EC%82%AC%20%EB%AC%B8%EB%8B%B5%20%EC%B1%97%EB%B4%87%20%EA%B0%9C%EB%B0%9C_font_2.pdf)
 
 # 2. 외부 교육 (Academy)
 
