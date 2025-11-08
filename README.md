@@ -15,11 +15,9 @@
 ![three.js](https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![eslint](https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![prettier](https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
+![playwright](https://img.shields.io/badge/playwright-000000?style=for-the-badge&logo=playwright&logoColor=white)
 ![vue3](https://img.shields.io/badge/vue3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-
-### Cross-Platform Mobile
-
 ![react-native](https://img.shields.io/badge/reactnative-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ### Backend
@@ -30,14 +28,12 @@
 ![springbatch](https://img.shields.io/badge/springbatch-6DB33F?style=for-the-badge&logo=springbatch&logoColor=white)
 ![express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![socket.io](https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-### DB
-
 ![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![redis](https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![mssql](https://img.shields.io/badge/mssql-4169E1?style=for-the-badge&logo=mssql&logoColor=white)
 ![elasticsearch](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### Infra
 
@@ -50,12 +46,7 @@
 ![rancher](https://img.shields.io/badge/rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
 ![argocd](https://img.shields.io/badge/argocd-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
-### Test
-
-![playwright](https://img.shields.io/badge/playwright-000000?style=for-the-badge&logo=playwright&logoColor=white)
-![jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-### AI/ML
+### AI & Data
 
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -64,9 +55,6 @@
 ![langfuse](https://img.shields.io/badge/langfuse-1C3C3C?style=for-the-badge&logo=langfuse&logoColor=white)
 ![ragas](https://img.shields.io/badge/ragas-1C3C3C?style=for-the-badge&logo=ragas&logoColor=white)
 ![openaigym](https://img.shields.io/badge/openaigym-0081A5?style=for-the-badge&logo=openaigym&logoColor=white)
-
-### DATA
-
 ![sentry](https://img.shields.io/badge/sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![datadog](https://img.shields.io/badge/datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![d3](https://img.shields.io/badge/d3-F9A03C?style=for-the-badge&logo=d3&logoColor=white)
