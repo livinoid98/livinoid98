@@ -94,3 +94,7 @@
 ![figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![photoshop](https://img.shields.io/badge/photoshop-000000?style=for-the-badge&logo=photoshop&logoColor=white)
 ![illustrator](https://img.shields.io/badge/illustrator-0000000?style=for-the-badge&logo=illustrator&logoColor=white)
+
+# 6. 알고리즘 (Algorithm)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=livinoid98)](https://solved.ac/livinoid98/)
