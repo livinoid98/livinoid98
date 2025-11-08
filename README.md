@@ -2,7 +2,7 @@
 
 - 고려대학교 SW·AI 융합대학원(석사) 빅데이터융합학과 전공
 
-[심층강화학습 CQL 발표 자료](./[2025-1학기]%20심층강화학습%20중간발표자료%20빅데이터융합학과%202024512005%20최찬영.pdf)
+[심층강화학습 CQL 발표 자료](https://github.com/livinoid98/livinoid98/blob/main/%5B2025-1%ED%95%99%EA%B8%B0%5D%20%EC%8B%AC%EC%B8%B5%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%20%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9C%B5%ED%95%A9%ED%95%99%EA%B3%BC_2024512005_%EC%B5%9C%EC%B0%AC%EC%98%81.pdf)
 
 # 2. 외부 교육 (Academy)
 
