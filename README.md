@@ -9,7 +9,7 @@
 # 2. 포트폴리오 (Portfolio)
 
 - `Liftware`는 기술이 인간의 불편함을 해소하며 사회의 포용성을 확장할 수 있음을 보여주는 사례라고 생각했습니다. 저는 이처럼 ‘사람을 위한 기술’을 바탕으로, 사회 문제를 해결하고 지속 가능한 선순환 구조를 만드는 개발자가 되고자 합니다.
-- [포트폴리오 (Portfolio)](https://github.com/livinoid98/livinoid98/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A42.pdf)
+- [포트폴리오 (Portfolio)](https://github.com/livinoid98/livinoid98/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EC%B5%9C%EC%B0%AC%EC%98%81.pdf))
 - [이력서 (Resume)](https://github.com/livinoid98/livinoid98/blob/main/%EC%9D%B4%EB%A0%A5%EC%84%9C2.pdf)
 
 # 3. 기술블로그 (Techblog)
