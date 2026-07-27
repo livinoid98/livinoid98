@@ -1,51 +1,48 @@
 # 1. 교육 사항 (Education)
 
-- 고려대학교 SW·AI 융합대학원(석사) 빅데이터융합학과 전공
-
-* [STEM 학과 이직률 분석 머신러닝 프로젝트](https://github.com/livinoid98/livinoid98/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%BC%ED%95%99%EA%B0%9C%EB%A1%A0%20%ED%8C%8C%EC%9D%B4%EB%84%90%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B0%9C%ED%91%9C%20(9).pdf)
-* [심층강화학습 보수적 학습을 위한 CQL](https://github.com/livinoid98/livinoid98/blob/main/%5B2025-1%ED%95%99%EA%B8%B0%5D%20%EC%8B%AC%EC%B8%B5%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%20%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9C%B5%ED%95%A9%ED%95%99%EA%B3%BC_2024512005_%EC%B5%9C%EC%B0%AC%EC%98%81.pdf)<br/>
-* [빅데이터 자연어처리 기술 RAG를 활용한 할루시네이션 개선](https://github.com/livinoid98/livinoid98/blob/main/12%ED%8C%80_RAG(%EA%B2%80%EC%83%89%EC%A6%9D%EA%B0%95%EC%83%9D%EC%84%B1)%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%95%BC%EA%B5%AC%20%EA%B8%B0%EC%82%AC%20%EB%AC%B8%EB%8B%B5%20%EC%B1%97%EB%B4%87%20%EA%B0%9C%EB%B0%9C_font_2.pdf)
+> ##### 1) 고려대학교 SW·AI 융합대학원(석사) 빅데이터융합학과 전공
+> * [STEM 학과 이직률 분석 머신러닝 프로젝트](https://github.com/livinoid98/livinoid98/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%BC%ED%95%99%EA%B0%9C%EB%A1%A0%20%ED%8C%8C%EC%9D%B4%EB%84%90%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B0%9C%ED%91%9C%20(9).pdf)
+> * [심층강화학습 보수적 학습을 위한 CQL](https://github.com/livinoid98/livinoid98/blob/main/%5B2025-1%ED%95%99%EA%B8%B0%5D%20%EC%8B%AC%EC%B8%B5%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%20%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9C%B5%ED%95%A9%ED%95%99%EA%B3%BC_2024512005_%EC%B5%9C%EC%B0%AC%EC%98%81.pdf)
+> * [빅데이터 자연어처리 기술 RAG를 활용한 할루시네이션 개선](https://github.com/livinoid98/livinoid98/blob/main/12%ED%8C%80_RAG(%EA%B2%80%EC%83%89%EC%A6%9D%EA%B0%95%EC%83%9D%EC%84%B1)%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%95%BC%EA%B5%AC%20%EA%B8%B0%EC%82%AC%20%EB%AC%B8%EB%8B%B5%20%EC%B1%97%EB%B4%87%20%EA%B0%9C%EB%B0%9C_font_2.pdf)
 
 # 2. 포트폴리오 (Portfolio)
 
-- `Liftware`는 기술이 인간의 불편함을 해소하며 사회의 포용성을 확장할 수 있음을 보여주는 사례라고 생각했습니다. 저는 이처럼 ‘사람을 위한 기술’을 바탕으로, 사회 문제를 해결하고 지속 가능한 선순환 구조를 만드는 개발자가 되고자 합니다.
-- [포트폴리오 (Portfolio)](https://github.com/livinoid98/livinoid98/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EC%B5%9C%EC%B0%AC%EC%98%81.pdf))
-- [이력서 (Resume)](https://github.com/livinoid98/livinoid98/blob/main/%EC%9D%B4%EB%A0%A5%EC%84%9C2.pdf)
+  - [포트폴리오 (Portfolio)](https://github.com/livinoid98/livinoid98/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EC%B5%9C%EC%B0%AC%EC%98%81.pdf))
+  - [이력서 (Resume)](https://github.com/livinoid98/livinoid98/blob/main/%EC%9D%B4%EB%A0%A5%EC%84%9C2.pdf)
 
 # 3. 기술블로그 (Techblog)
 
-- python mkdocs를 활용하여 기술블로그를 운영하였으며, github-action을 이용한 CI/CD 파이프라인이 구성되어 자동 배포되고 있습니다.
-- [기술블로그 (Techblog)](https://livinoid98.github.io/techblog/)
+  - [기술블로그 (Techblog)](https://livinoid98.github.io/techblog/)
 
 # 4. 외부 교육 (Academy)
 
-- 삼성 청년 SW 아카데미 (SSAFY) 서울 9기
-- SBS 컴퓨터아카데미 홍대지점 웹디자인학과
-- 코리아아이티아카데미 신촌지점 웹프론트엔드 과정
+> ##### 1) 삼성 청년 SW 아카데미 (SSAFY) 서울 9기
+> ##### 2) SBS컴퓨터아카데미 홍대지점 웹디자인학과
+> ##### 3) 코리아IT아카데미 신촌지점 웹프론트엔드과정 / 안드로이드과정
 
 # 5. 자격 사항 (License)
 
-- 빅데이터분석기사
-- 정보처리기사
-- SQLD (SQL-개발자)
-- 웹디자인기능사
+> ##### 1) 빅데이터분석기사
+> ##### 2) 정보처리기사
+> ##### 3) SQLD (SQL-개발자)
+> ##### 4) 웹디자인기능사
 
 # 6. 수상 경력
 
-1. 한국정보처리학회 ASK 2026 우수논문상
-2. 자율 프로젝트 경진대회 최우수상 (장애 도움 호출 알림 서비스, 소소행)
-3. 특화 프로젝트 경진대회 우수상(3등) (반려견 의료 이력 관리 블록체인 프로젝트, I-Dog)
-4. 공통 프로젝트 경진대회 우수상(3등) (관절 인식 AI 모델을 적용한 온라인 랜덤 플레이 댄스 서비스)
-5. 1학기 프로젝트 경진대회 최우수상 (부동산 중개 플랫폼, 사용자 행동 분석을 통한 ROAS 분석)
-6. 제10회 IT&미디어콘텐츠 경진대회 인기상 (네이버 클로바 OCR을 활용한 자가관리 어플리케이션 개발)  
+> ##### 1) 한국정보처리학회 ASK 2026 우수논문상
+> ##### 2) 자율 프로젝트 경진대회 최우수상 (장애 도움 호출 알림 서비스, 소소행)
+> ##### 3) 특화 프로젝트 경진대회 우수상(3등) (반려견 의료 이력 관리 블록체인 프로젝트, I-Dog)
+> ##### 4) 공통 프로젝트 경진대회 우수상(3등) (관절 인식 AI 모델을 적용한 온라인 랜덤 플레이 댄스 서비스)
+> ##### 5) 1학기 프로젝트 경진대회 최우수상 (부동산 중개 플랫폼, 사용자 행동 분석을 통한 ROAS 분석)
+> ##### 6) 제10회 IT&미디어콘텐츠 경진대회 인기상 (네이버 클로바 OCR을 활용한 자가관리 어플리케이션 개발)  
 
 # 7. 언어 (Language)
 
-- OPIc (영어) Intermediate Medium
+> ##### 1) OPIc (영어) Intermediate Medium
 
 # 8. 복무 (Military)
 
-- 공군 정보체계관리단 SW개발병 (웹디자인병) 복무
+> ##### 1) 공군 정보체계관리단 SW개발병 (웹디자인병) 복무
 
 # 9. 기술 스택 (Tech Stack)
 
