@@ -30,15 +30,24 @@
 - SQLD (SQL-개발자)
 - 웹디자인기능사
 
-# 6. 언어 (Language)
+# 6. 수상 경력
+
+1. 한국정보처리학회 ASK 2026 우수논문상
+2. 자율 프로젝트 경진대회 최우수상 (장애 도움 호출 알림 서비스, 소소행)
+3. 특화 프로젝트 경진대회 우수상(3등) (반려견 의료 이력 관리 블록체인 프로젝트, I-Dog)
+4. 공통 프로젝트 경진대회 우수상(3등) (관절 인식 AI 모델을 적용한 온라인 랜덤 플레이 댄스 서비스)
+5. 1학기 프로젝트 경진대회 최우수상 (부동산 중개 플랫폼, 사용자 행동 분석을 통한 ROAS 분석)
+6. 제10회 IT&미디어콘텐츠 경진대회 인기상 (네이버 클로바 OCR을 활용한 자가관리 어플리케이션 개발)  
+
+# 7. 언어 (Language)
 
 - OPIc (영어) Intermediate Medium
 
-# 7. 복무 (Military)
+# 8. 복무 (Military)
 
 - 공군 정보체계관리단 SW개발병 (웹디자인병) 복무
 
-# 8. 기술 스택 (Tech Stack)
+# 9. 기술 스택 (Tech Stack)
 
 ### Frontend
 
@@ -112,6 +121,6 @@
 ![photoshop](https://img.shields.io/badge/photoshop-000000?style=for-the-badge&logo=photoshop&logoColor=white)
 ![illustrator](https://img.shields.io/badge/illustrator-0000000?style=for-the-badge&logo=illustrator&logoColor=white)
 
-# 6. 알고리즘 (Algorithm)
+# 10. 알고리즘 (Algorithm)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=livinoid98)](https://solved.ac/livinoid98/)
