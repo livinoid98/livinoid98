@@ -8,7 +8,7 @@
 # 2. 포트폴리오 (Portfolio)
 
   - [포트폴리오 (Portfolio)](https://github.com/livinoid98/livinoid98/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EC%B5%9C%EC%B0%AC%EC%98%81.pdf))
-  - [이력서 (Resume)](https://github.com/livinoid98/livinoid98/blob/main/%EC%9D%B4%EB%A0%A5%EC%84%9C2.pdf)
+  - [이력서 & 경력기술서 (Resume)](https://github.com/livinoid98/livinoid98/blob/main/%EC%9D%B4%EB%A0%A5%EC%84%9C_%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C_%EC%B5%9C%EC%B0%AC%EC%98%81.pdf)
 
 # 3. 기술블로그 (Techblog)
 
